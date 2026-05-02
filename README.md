@@ -16,7 +16,7 @@ A lightweight **face recognition system with anti-spoofing** using **eye blink d
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/Antispoofing-Fake-Face-Recognition.git
+git clone https://github.com/poorvigupta0706/Antispoofing-Fake-Face-Recognition.git
 cd Antispoofing-Fake-Face-Recognition
 pip install -r requirements.txt
 ```

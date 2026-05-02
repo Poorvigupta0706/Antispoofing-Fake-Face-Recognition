@@ -40,4 +40,7 @@ python detect.py
 
 ---
 
+## Output
+<img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/6201d108-b99c-4144-a4de-a86df5b3d3a5" />
+
 
